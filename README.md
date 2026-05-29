@@ -9,4 +9,4 @@ An end-to-end machine learning and data analytics project focused on predicting 
 * **Libraries:** XGBoost, Pandas, NumPy, Scikit-learn
 * **BI Tool:** Power BI Desktop
 * **Version Control:** Git & GitHub
-
+<img width="1280" height="723" alt="image" src="https://github.com/user-attachments/assets/625561ab-6277-4948-83cd-83c2e7fe4d3e" />
